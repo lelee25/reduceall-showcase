@@ -26,6 +26,8 @@ Ogni operazione ha un flusso dedicato e un risultato scaricabile.
 
 [Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/reduceall.html)
 
+[Esplora la prova dimostrativa](https://portfolio.lele-tradevalue.com/progetti/reduceall/#demo)
+
 ## Ambito pubblico
 
 Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
