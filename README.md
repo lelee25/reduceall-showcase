@@ -2,7 +2,7 @@
 
 Progetto personale · Prodotti
 
-Web app per compressione, conversione e strumenti di elaborazione dei documenti.
+App per compressione, conversione ed elaborazione dei file sul dispositivo.
 
 ## Esigenza
 
@@ -14,7 +14,7 @@ Ho organizzato strumenti diversi in un’unica esperienza web.
 
 ## Stack
 
-React, TypeScript, PWA, Python.
+React, TypeScript, PWA, WebAssembly.
 
 ## Una scelta da raccontare
 
